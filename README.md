@@ -1,15 +1,16 @@
-# Title
+# Breaking Down and Reconfiguring Code
 
-## Objectives
+- Code Along,Interpret existing functions to derive purpose
+- Modify expressions and statements while maintaining functionality
+- Recognize how refactoring code improves readability
 
--SWBAT 1
--SWBAT 2
+* Walkthrough examples of larger methods that can be divided up by distinct actions
 
-#### Introduction
+### Code Along,Interpret existing functions to derive purpose
 
-#### SWBAT 1
+### Modify expressions and statements while maintaining functionality
 
-#### SWBAT 2
+### Recognize how refactoring code improves readability
 
 ## Conclusion
 
